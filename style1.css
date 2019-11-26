@@ -1,0 +1,31 @@
+h1{text-align: center;}
+.n1{color: rgb(0, 100, 0);}
+.n{color: black;}
+.n2 p{
+    font-size: large;
+    font-style: italic;
+    color: blue;
+}
+.n3 p{
+    font-size: 16px;
+    font-style: oblique;
+    color: brown;
+}
+.n4 p{
+    font-size: 27px;
+    font-style: bold;
+    color: crimson;
+}
+.n5{
+    padding-left: 40px;
+}
+
+.n6 :before{
+    content: "§";
+    padding-left: 40px;
+}
+span{
+    color:green;
+}
+.z1{color: indigo;
+font-weight: 600;}
